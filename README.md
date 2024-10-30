@@ -23,16 +23,16 @@ A Parkinson’s disease prediction system utilizing a hybrid machine learning mo
 * Additional Dependencies: Matplotlib and Seaborn for data visualization, joblib for model persistence, and Streamlit for application deployment.
 
 ## System Architecture
-![1](sys_arch.jpg )
+![1](https://raw.githubusercontent.com/anishmj/Parkinson-Disease-Prediction/refs/heads/main/sys_arch.jpg )
 ## Output
 
 <!--Embed the Output picture at respective places as shown below as shown below-->
 #### Output1 - Person is Positive for Parkinson Disease
 
-![2](dis.png)
+![2](https://raw.githubusercontent.com/anishmj/Parkinson-Disease-Prediction/refs/heads/main/dis.png)
 
 #### Output2 - Person is Negative for Parkinson Disease
-![3](no_dis.png)
+![3](https://raw.githubusercontent.com/anishmj/Parkinson-Disease-Prediction/refs/heads/main/no_dis.png)
 
 
 Detection Accuracy: 92%
